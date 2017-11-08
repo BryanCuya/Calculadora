@@ -11,9 +11,10 @@ function NoCargando(){
     //document.getElementById('body').style.overflow="scroll"; 
     document.getElementById('bloqueo').style.display =''; 
 }
-/*function Validar(documento){
-	var ss = SpreadsheetApp.openById('1ojtEd5DGSTnORK4lAUBah2oYmvc5Q8oxkoogy7W52cc').getSheetByName('ACTIVIDADES');
+function Validar(documento){
+	alert("holas")
 }
+/*
 function BuscarDocumento(inferior,superior,documento,centro_1){
 	var ss = SpreadsheetApp.openById('1ojtEd5DGSTnORK4lAUBah2oYmvc5Q8oxkoogy7W52cc').getSheetByName('BD');
 	var centro = Math.ceil((superior-inferior)/2)
