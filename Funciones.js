@@ -12,7 +12,7 @@ function NoCargando(){
     document.getElementById('bloqueo').style.display =''; 
 }
 function Validar(documento){
-	alert("holi boli")
+	alert("ho")
 }
 /*
 function BuscarDocumento(inferior,superior,documento,centro_1){
